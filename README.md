@@ -1,1 +1,1 @@
-# Mental-health-support-platform
+# Mental-health-support-system
